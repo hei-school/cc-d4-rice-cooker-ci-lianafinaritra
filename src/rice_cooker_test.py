@@ -33,7 +33,7 @@ class TestRiceCooker(unittest.TestCase):
         with self.assertLogs() as cm:
             await rice_cooker.startReheating('ronono')
 
-        mock_sleep.assert_called_once_with(5)  # Assuming 'ronono' has a default time of 5 seconds
+        mock_sleep.assert_called_once_with(5)
         self.assertEqual(rice_cooker.hasWater, False)
         self.assertIn('Réchauffement terminé', cm.output)
 
