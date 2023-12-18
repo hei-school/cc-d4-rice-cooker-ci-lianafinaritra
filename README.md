@@ -31,3 +31,11 @@ In this project, the golangci-lint used is eslint and the project follows Effect
 * Run the linter
   ```ssh
     golangci-lint run
+
+### Test
+
+In this project, we use the default test package of go.
+
+* Run the test
+  ```ssh
+    go test
