@@ -17,14 +17,14 @@ It has been designed for:
 ### Installation
 
 Requirements:
-* [Typescript][TS-installation-url]
-* [C#][NET-installation-url]
-* [Ruby][RUBY-installation-url]
-* [GO][GO-installation-url]
+* [Typescript][TS-url]
+* [Python][Python-url]
+* [Ruby][RUBY-url]
+* [GO][GO-url]
 
 Follow this step to run the project
 * [Typescript][TS-installation-url]
-* [C#][NET-installation-url]
+* [Python][Python-installation-url]
 * [Ruby][RUBY-installation-url]
 * [GO][GO-installation-url]
 
@@ -32,11 +32,11 @@ Follow this step to run the project
 
 I hope that testing the application will be fun for you ... See you later ...
 
-[TS-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/blob/feature/Typescript/README.md/
-[NET-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/tree/feature/C%23/README.md/
-[RUBY-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/tree/feature/ruby/README.md/
-[GO-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/tree/feature/Go/README.md/
-[TS-installation-url]: https://www.npmjs.com/package/typescript/
-[NET-installation-url]: https://dotnet.microsoft.com/en-us/download//
-[RUBY-installation-url]: https://www.ruby-lang.org/fr/documentation/installation//
-[GO-installation-url]: https://go.dev/doc/install/
+[TS-installation-url]: https://github.com/hei-school/cc-d4-rice-cooker-ci-lianafinaritra/blob/feature/Typescript/README.md
+[Python-installation-url]: https://github.com/hei-school/cc-d4-rice-cooker-ci-lianafinaritra/blob/feature/python/README.md
+[RUBY-installation-url]: https://github.com/hei-school/cc-d4-rice-cooker-ci-lianafinaritra/blob/feature/ruby/README.md
+[GO-installation-url]: https://github.com/hei-school/cc-d4-rice-cooker-ci-lianafinaritra/blob/feature/Go/README.md
+[TS-url]: https://www.npmjs.com/package/typescript/
+[Python-url]: https://www.python.org/downloads/
+[RUBY-url]: https://www.ruby-lang.org/fr/documentation/installation//
+[GO-url]: https://go.dev/doc/install/
