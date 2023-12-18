@@ -31,3 +31,11 @@ In this project, the linter used is Rubycorp and the project follows Ruby Style 
 * Run the linter
   ```ssh
     rubycorp .
+
+### Test
+
+In this project, we use rspec to test the application.
+
+* Run the test
+  ```ssh
+    rspec
